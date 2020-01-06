@@ -1,6 +1,26 @@
 # HTML
 - Hypertext Markup Language
 
+## Structure
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+</body>
+</html>
+```
+
+Everything visible on the page will be located in the <body> section.
+
+<open tag> </closing tag>
+
+
 ### Who is your site for:
 1. Individuals
   - age range
@@ -62,6 +82,15 @@ Contains the title of the website
 *all **visible** website content goes in between here
 </body>
 
+<header> Apears at the top of the page
+<footer> Apears at the bottom of the page
+<nav> Used to contain major navigational blocks
+<article> Acts as a container for a specific block of content
+<aside> Used to contain information related to a specific article or the entire page
+<section> Groups related content together
+<hgroup> Used to combine multiple titles <h1-h6>
+<figure> <figcaption> Used when refering to a specific element
+
 `<!---Comments can go . here---->`
 
 <div>
@@ -75,6 +104,7 @@ Contains the title of the website
 <iframe>
   cuts a little window into your page (think maps)
 </iframe>
+*Identify scr, height, width
 
 <meta> 
 - lives inside the head element
@@ -95,10 +125,15 @@ Contains the title of the website
   - Can be used to identify multiple elements
 
 ## Element Types
-  - Block elements always start on a new line
-  - Inline elements always apear in same line as used
+  - Block elements always start on a new line `<h1-h6>, <p>, <ul>, <li>`
+  - Inline elements always apear in same line as used `<a>, <b>, <em>,<img>`
   
-block | inline
-_____ | _____
-h1,p,ul,li | a,b,em,img
+## Meta Data
+`<meta>` 
+1. This element lives inside the `<head>` section. 
+2. used primarily for SEO purposes
+3. contains description, & keywords as well as instructions for (spiders)
+
+## Escape characters
+special characters that can be typed by inserting a special code
 
