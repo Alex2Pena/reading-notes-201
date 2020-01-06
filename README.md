@@ -5,7 +5,7 @@
 
 ### Day 1
 ** Intro to HTML & JavaScript **
-[class 01](https://alex2pena.github.io/reading-notes/class 01.md)
+[class 01](https://alex2pena.github.io/reading-notes/class-01.md)
 
 
 
