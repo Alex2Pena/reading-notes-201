@@ -4,7 +4,8 @@
 
 
 ### Day 1
-** Summary of content **
+** Intro to HTML & JavaScript **
+[Class 01](/class 01.md)
 
 
 
