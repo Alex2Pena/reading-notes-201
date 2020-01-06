@@ -23,9 +23,9 @@
 </html>
 ```
 
-Everything visible on the page will be located in the <body> section.
+Everything visible on the page will be located in the `<body>` section.
 
-<open tag> </closing tag>
+`<open tag> </closing tag>`
 
 
 ### Who is your site for:
@@ -73,47 +73,47 @@ Everything visible on the page will be located in the <body> section.
   - Use grouping and similarity to simplify
   
 ## Basic Elements
-/<html> - open tag
+`<html>` - open tag
 /*all Website content goes in between here*
-/</html> - close tag
+`</html>` - close tag
 
-<head>
+`<head>`
 Contains information about the website like the title, and other background stuff
-</head> 
+`</head>`
 
-<title>
+`<title>`
 Contains the title of the website
-</title>
+`</title>`
 
-<body>
+`<body>`
 *all **visible** website content goes in between here
-</body>
+`</body>`
 
-<header> Apears at the top of the page
-<footer> Apears at the bottom of the page
-<nav> Used to contain major navigational blocks
-<article> Acts as a container for a specific block of content
-<aside> Used to contain information related to a specific article or the entire page
-<section> Groups related content together
-<hgroup> Used to combine multiple titles <h1-h6>
-<figure> <figcaption> Used when refering to a specific element
+`<header>` Apears at the top of the page
+`<footer>` Apears at the bottom of the page
+`<nav>` Used to contain major navigational blocks
+`<article>` Acts as a container for a specific block of content
+`<aside>` Used to contain information related to a specific article or the entire page
+`<section>` Groups related content together
+`<hgroup>` Used to combine multiple titles `<h1-h6>`
+`<figure> <figcaption>` Used when refering to a specific element
 
 `<!---Comments can go . here---->`
 
-<div>
+`<div>`
   allows you to group a set of elements into one block
-</div>
+`</div>`
 
-<span>
+`<span>`
   used inline and has the equivilent of a **div**
-</span>
+`</span>`
 
-<iframe>
+`<iframe>`
   cuts a little window into your page (think maps)
-</iframe>
+`</iframe>`
 *Identify scr, height, width
 
-<meta> 
+`<meta>` 
 - lives inside the head element
 - used for SEO purposes
 - contains description, keywords, gives instructions to bots
