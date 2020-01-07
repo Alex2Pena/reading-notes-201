@@ -4,7 +4,7 @@
 
 
 ### Day 1
-[class 01.md]()
+[class 01.md](https://alex2pena.github.io/reading-notes/class01.md)
 
 ### Day 2
 ** Summary of content **
