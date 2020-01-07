@@ -112,7 +112,7 @@ document.write('good afternoon!')
 - if (condition) {
     code to execute if true();
 }
-- If statements evaluate or check if a condition is true. If so the code is executed
+- If statements evaluate or check if a condition is true. If so the code is executed.
 
 4. If Else staatements
 - if (condition) {
