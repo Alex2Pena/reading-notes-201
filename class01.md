@@ -18,7 +18,7 @@
 
 Everything visible on the page will be located in the `<body>` section.
 
-`<open tag> </closing tag>`
+`<open tag> & </closing tag>`
 
 
 ### Who is your site for:
@@ -137,4 +137,22 @@ Contains the title of the website
 ## Escape characters
 special characters that can be typed by inserting a special code
 
+# Intro to Java Script
+- A script is a series of instructions for computer to follow to achieve goal.
+- Each time a script runs it may only use a subset of the instructions
+- Use a flow chart to break down the goal into a series of steps
+
+1. Objects
+    - Can be thought of as things in the real world
+    - They can have there own: **Properties, Events, Methods**
+    - 
+2. Properties
+    - Can be thought of as characteristics
+    - Each property has a **Name & Value**
+3. Events
+    - Is the computers way of saying "something just happened"
+    - Scripts often use different events to trigger different functions
+4. Methods
+    - They represent how people or things interact with an **Object**
+    - Can be used to change the value of one or more of that objects properties
 
