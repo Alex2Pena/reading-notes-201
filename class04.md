@@ -48,9 +48,9 @@
 - Use multiple style sheets to control differnt attributes like layout fonts colors
 
 # Functions
- - **function sayHello() {
-    documrent.write('Hello');- Must be called before they can run
- }
+ - Reusable code
+ - **function sayHello() {documrent.write('Hello');**
+ - Must be called before they can run
 - Calling a function **sayHello();
 -  Declare parameters **(width, height)
 - Reasons for pair programing
